@@ -1,5 +1,10 @@
-# js-vanilla-weather-api
+#js-vanilla-weather-api
+
 Weather app with Openmeteo API
+
+#Demo:
+
+https://pprzebieda.github.io/js-vanilla-weather-api/
 
 #Description:
 
